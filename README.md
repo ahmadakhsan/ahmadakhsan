@@ -7,11 +7,15 @@ welcome to my github, I am a developer, I have examples of several projects that
   
   </div>
 
+
+<div>
 ### Biodata there 👋
 
 
 ![screenshot](screen1.png)
 
+  
+  </div>
 <!--
 **ahmadakhsan/ahmadakhsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src=”http://link-foto”>
