@@ -8,7 +8,7 @@ welcome to my github, I am a developer, I have examples of several projects that
 <br><br><br>
 
 
-### topics of natural disasters 🌗 and personal biodata there 📝
+### Topics Of Natural Disasters 🌗 and Personal Biodata There 📝
 
 
 ![screenshot](screen1.png)
