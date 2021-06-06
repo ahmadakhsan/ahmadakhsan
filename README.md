@@ -2,7 +2,7 @@
 
 ![screenshot](screen1.png)
 
-<p>
+<p> ![screenshot](giphy.gif)
 welcome to my github i'm a developer ,i have examples of some projects i've made, for self development focused on solving problems</p>
 
 <!--
