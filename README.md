@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-selamat datang
-
-
 ![screenshot](screen.png)
 
 
