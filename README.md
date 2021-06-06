@@ -2,11 +2,11 @@
 
 ![screenshot](screen1.png)
 
-<p> 
+<p>  <img align="left" src="giphy.gif" width="200" style="max-width:100%;">
 welcome to my github i'm a developer ,i have examples of some projects i've made, for self development focused on solving problems</p>
-![screenshot](giphy.gif)
 
-<img align="right" src="giphy.gif" width="200" style="max-width:100%;">
+
+
 <!--
 **ahmadakhsan/ahmadakhsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src=”http://link-foto”>
