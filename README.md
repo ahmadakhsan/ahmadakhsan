@@ -2,8 +2,8 @@
 
 ![screenshot](screen1.png)
 
-<p>  
-welcome to my github i'm a developer ,i have examples of some projects i've made, for self development focused on solving problems <img align="right" src="giphy.gif" ></p>
+<p>  <img align="right" src="giphy.gif" >
+welcome to my github i'm a developer ,i have examples of some projects i've made, for self development focused on solving problems </p>
 
 
 
