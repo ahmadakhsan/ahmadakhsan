@@ -2,7 +2,7 @@
 
 ![screenshot](screen1.png)
 
-<p>  <img align="left" src="giphy.gif" width="200" style="max-width:100%;">
+<p>  <img align="left" src="giphy.gif" >
 welcome to my github i'm a developer ,i have examples of some projects i've made, for self development focused on solving problems</p>
 
 
