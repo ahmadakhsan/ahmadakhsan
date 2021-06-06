@@ -3,9 +3,9 @@
 ![screenshot](screen1.png)
 
 <p>  
-welcome to my github i'm a developer ,i have examples of some projects i've made, for self development focused on solving problems</p>
+welcome to my github i'm a developer ,i have examples of some projects i've made, for self development focused on solving problems <img align="right" src="giphy.gif" ></p>
 
-<img align="left" src="giphy.gif" >
+
 
 <!--
 **ahmadakhsan/ahmadakhsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
