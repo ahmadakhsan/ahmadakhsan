@@ -1,4 +1,4 @@
-### Hello guys 👋, welcome back my github
+### Hello guys 👋, welcome back my github.
 
 <div>
 <p>  <img align="left" src="giphy.gif" height="200" >
