@@ -23,6 +23,10 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+</p>
 
 
 | <a href="https://github.com/ahmadakhsan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadakhsan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ahmad Akhsan's github stats" /></a> | <a href="https://github.com/ahmadakhsan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadakhsan&layout=compact&theme=buefy&hide_border=true" /></a> |
