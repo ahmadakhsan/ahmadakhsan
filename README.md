@@ -7,7 +7,9 @@
   <br/> &nbsp;
   made,  for self-development focus on problem  solving, while my project examples vary, 
    <br/> &nbsp;
-  ranging from sales applications, cashier applications, financial applications, to see examples of code programs you can seen below, I also receive some input using other people's code and want to collaborate, learn knowledge together.
+  ranging from sales applications, cashier applications, financial applications, to see 
+   <br/> &nbsp;
+  examples of code programs you can seen below, I also receive some input using other people's code and want to collaborate, learn knowledge together.
  <br/>
 <br/>
 <br/>
