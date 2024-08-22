@@ -1,15 +1,11 @@
 ### Hello guys 👋, welcome back my github.......
 
 
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
-
-
-<div>
-<img align="left" src="giphy.gif" height="200" /> 
+<div> <img align="left" src="giphy.gif" height="200" /> 
 <p> <t> welcome to my github, I am a developer, I have examples of several projects that I made, for self-development focus on problem solving, while my project examples vary, ranging from sales applications, cashier applications, financial applications, to see examples of code programs you can seen below, I also receive some input using other people's code and want to collaborate, learn knowledge together. </t> </p> 
 </div>
+
+<div style=”text-align:justify;width:75%; background-color:#ff9999; border:1px solid #000099; padding:8px;”><img src="giphy.gif" style=”float:left; margin:0 8px 4px 0;” />tulis teks disini</div>
 
 
 
