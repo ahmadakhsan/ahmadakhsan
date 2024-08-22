@@ -1,7 +1,7 @@
 ### Hello guys 👋, welcome back my github.......
 
  <p> 
-  <img src="giphy.gif" align="right" width="33%"  
+  <img src="giphy.gif" align="right" width="20%"  
              alt="">  welcome to my github, I am a developer, I have examples of several projects that I 
   made,  for self-development focus on problem  solving, while my project examples vary, 
   ranging from sales applications, cashier applications, financial applications, to see 
