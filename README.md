@@ -40,11 +40,6 @@
 
 
 
-<h2>float: left</h2>
-<p> <img src="giphy.gif" alt="Smiley face" width="42" height="42" style="float:left">This is some text. This is some text. This is some text.</p>
-
-
-
 
 | <a href="https://github.com/ahmadakhsan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadakhsan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ahmad Akhsan's github stats" /></a> | <a href="https://github.com/ahmadakhsan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadakhsan&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
