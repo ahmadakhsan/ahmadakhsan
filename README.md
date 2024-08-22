@@ -28,6 +28,16 @@
 <p>
  welcome to my github, I am a developer, I have examples of several projects that I made, for self-development focus on problem solving, while my project examples vary, ranging from sales applications, cashier applications, financial applications, to see examples of code programs you can seen below, I also receive some input using other people's code and want to collaborate, learn knowledge together.
 </p>
+<br/><br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+<h2>float: left</h2>
+<p>This is some text. <img src="giphy.gif" alt="Smiley face" width="42" height="42" style="float:left">This is some text. This is some text. This is some text.</p>
 
 
 
