@@ -16,12 +16,12 @@
 
 
  <table >
-        <tr>
+      
             <td widht="50">ada</td>   
             <td>
                 <p>asdadadadadad</p>
             </td>   
-        </tr>
+        
     </table>
 
 
