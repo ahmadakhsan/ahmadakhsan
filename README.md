@@ -8,9 +8,11 @@
 
   <img align="left" src="giphy.gif" height="200" style="margin:0 8px 4px 0;" />
 
-  
+  <!---
 
 <img src="https://time2hack.com/favicon.png" height="60" align="right" style="float:right; border-radius: 3px;overflow: hidden;"/>
+-->
+
 
 <br />
 
