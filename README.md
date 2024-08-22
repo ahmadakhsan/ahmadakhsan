@@ -2,7 +2,7 @@
 
 
 
-<h4>GeeksforGeeks
+<h4>
         <img align="middle" 
           src="giphy.gif"
              alt="">
