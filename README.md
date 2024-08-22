@@ -15,7 +15,7 @@
 <br/>
 
 
- <table border="0" cellspacing="0" cellpading="0">
+ <table >
         <tr>
             <td widht="50">ada</td>   
             <td>
