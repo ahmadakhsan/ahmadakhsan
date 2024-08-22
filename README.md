@@ -11,11 +11,11 @@
 ### Topics of Natural disasters 🌗 and Personal Biodata there 📝
 
 
-![screenshot](screen1.png)
+
 
   
 
-<!--
+
 **ahmadakhsan/ahmadakhsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src=”http://link-foto”>
 width="200" style="max-width:100%;"
