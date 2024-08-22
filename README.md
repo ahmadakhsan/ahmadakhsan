@@ -15,14 +15,6 @@
 <br/>
 
 
- <table >
-      
-            <td widht="50">ada</td>   
-            <td>
-                <p>asdadadadadad</p>
-            </td>   
-        
-    </table>
 
 
 | <a href="https://github.com/ahmadakhsan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadakhsan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ahmad Akhsan's github stats" /></a> | <a href="https://github.com/ahmadakhsan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadakhsan&layout=compact&theme=buefy&hide_border=true" /></a> |
