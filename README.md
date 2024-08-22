@@ -1,8 +1,8 @@
 ### Hello guys 👋, welcome back my github.......
 
 
-<h4>GeeksforGeeks
-        <img align="left"  src="giphy.gif" style="margin-right: 150px;"
+<h4>
+        <img align="left"  src="giphy.gif" style="margin: 5px;"
              alt="">
         welcome to my github, I am a developer, I have examples of several projects that I made,  for self-development focus on problem solving, while my project examples vary, ranging from sales applications, cashier applications, financial applications, to see examples of code programs you can seen below, I also receive some input using other people's code and want to collaborate, learn knowledge together.
     </h4>
