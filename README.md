@@ -13,14 +13,18 @@
 <img src="https://time2hack.com/favicon.png" height="60" align="right" style="float:right; border-radius: 3px;overflow: hidden;"/>
 -->
 
-
-<br />
-
-
 <div style="display: flex; align-items: left;">
   <img src="giphy.gif" alt="deskripsi gambar"  height="200">
   <p>Ini adalah tulisan di samping gambar.</p>
 </div>
+<br />
+
+<div style="align: justify;">
+<img height="100" src="giphy.gif" style="float: left; margin: 0px 9px 3px 0px;" width="100" />
+asdasdasd
+</div>
+
+
 
 
 
