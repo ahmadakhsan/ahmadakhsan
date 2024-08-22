@@ -24,16 +24,9 @@
 -->
 
 
+<img align="left" width="33%" src="https://i.sstatic.net/RJj4x.png">
 
-<div style="align: justify;">
-<img height="100" src="giphy.gif" style="float: left; margin: 0px 9px 3px 0px;" width="100" />
- welcome to my github, I am a developer, I have examples of several projects that I made, for self-development focus on problem solving, while my project examples vary, ranging from sales applications, cashier applications, financial applications, to see examples of code programs you can seen below, I also receive some input using other people's code and want to collaborate, learn knowledge together.
-</div>
-
-<p align="center" ">
-    <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo"> 
-   <h1 align="center">Material Bread</h1>
-</p>
+[Arduino](https://en.wikipedia.org/wiki/Arduino) (/ɑːrˈdwiːnoʊ/) is an open-source hardware and software company, project and user community that designs and manufactures single-board microcontrollers and microcontroller kits for building digital devices. Its hardware products are licensed under a [CC-BY-SA][4] license, while software is licensed under the GNU Lesser General Public License (LGPL) or the GNU General Public License (GPL),[1] permitting the manufacture of Arduino boards and software distribution by anyone. Arduino boards are available commercially from the official website or through authorized distributors. Arduino board designs use a variety of microprocessors and controllers. The boards are equipped with sets of digital and analog input/output (I/O) pins that may be interfaced to various expansion boards ('shields') or breadboards (for prototyping) and other circuits.
 
 
 
