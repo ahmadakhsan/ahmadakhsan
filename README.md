@@ -17,7 +17,7 @@
 <br />
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: left;">
   <img src="giphy.gif" alt="deskripsi gambar"  height="200">
   <p>Ini adalah tulisan di samping gambar.</p>
 </div>
