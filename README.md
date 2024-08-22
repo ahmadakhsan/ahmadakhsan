@@ -37,7 +37,7 @@
 
 
 <h2>float: left</h2>
-<p>This is some text. <img src="giphy.gif" alt="Smiley face" width="42" height="42" style="float:left">This is some text. This is some text. This is some text.</p>
+<p> <img src="giphy.gif" alt="Smiley face" width="42" height="42" style="float:left">This is some text. This is some text. This is some text.</p>
 
 
 
