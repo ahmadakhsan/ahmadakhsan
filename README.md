@@ -8,12 +8,11 @@
   welcome to my github, I am a developer, I have examples of several projects that I made,  for self-development focus on problem solving, while my project examples vary, ranging from sales applications, cashier applications, financial applications, to see examples of code programs you can seen below, I also receive some input using other people's code and want to collaborate, learn knowledge together.
 </p>
 
-
-
 <br/>
 <br/>
 <br/>
-
+<br/>
+<br/>
 
 
 | <a href="https://github.com/ahmadakhsan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadakhsan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ahmad Akhsan's github stats" /></a> | <a href="https://github.com/ahmadakhsan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadakhsan&layout=compact&theme=buefy&hide_border=true" /></a> |
