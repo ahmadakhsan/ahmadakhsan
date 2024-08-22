@@ -7,7 +7,7 @@
   people's code and want to collaborate, learn knowledge together. </p>
 
 
-  <img src="giphy.gif" align="left" width="33%"  
+  <img src="giphy.gif" align="right" width="33%"  
              alt=""> 
  <br/>
 <br/>
