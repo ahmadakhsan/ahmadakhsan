@@ -3,7 +3,7 @@
 <img src="giphy.gif" align="left" width="33%"  
              alt=""> 
 &nbsp;
-  welcome to my github, I am a developer, I have examples of several projects that I &nbsp;&nbsp; made,  for self-development focus on problem  solving, while my project examples vary, ranging from sales applications, cashier applications, financial applications, to see examples of code programs you can seen below, I also receive some input using other people's code and want to collaborate, learn knowledge together.
+  welcome to my github, I am a developer, I have examples of several projects that I &nbsp;&nbsp; &nbsp;&nbsp; made,  for self-development focus on problem  solving, while my project examples vary, ranging from sales applications, cashier applications, financial applications, to see examples of code programs you can seen below, I also receive some input using other people's code and want to collaborate, learn knowledge together.
  <br/>
 <br/>
 <br/>
