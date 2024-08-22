@@ -1,17 +1,10 @@
 ### Hello guys 👋, welcome back my github.......
 
 
-<p>
- 
-  welcome to my github, I am a developer, I have examples of several projects that I made,  for self-development focus on problem solving, while my project examples vary, ranging from sales applications, cashier applications, financial applications, to see examples of code programs you can seen below, I also receive some input using other people's code and want to collaborate, learn knowledge together.
-  
-</p>
-<img src="giphy.gif"  width="33%"  align="left"  /> 
 
 <h4>GeeksforGeeks
         <img align="middle" 
-             src=
-"https://media.geeksforgeeks.org/wp-content/uploads/20190506164011/logo3.png"
+          src="giphy.gif"
              alt="">
         GeeksforGeeks
     </h4>
