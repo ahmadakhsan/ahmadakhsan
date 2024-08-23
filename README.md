@@ -31,7 +31,7 @@
 
 
 <picture>
-  <img align="left" alt="GIF description" width="38%" src="giphy.gif">
+  <img align="right" alt="GIF description" width="38%" src="giphy.gif">
 </picture>
 <p>
    welcome to my github, I am a developer, I have examples of several projects that I 
