@@ -70,6 +70,13 @@
 ![Ahmad Akhsan GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadakhsan&text_color=ffffff&icon_color=0d7c66&bg_color=151515&layout=compact&theme=buefy&hide_border=true)
 
 
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ryo-ma&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-ma&layout=compact" />
+</div>
+
+
 ### Topics of Natural disasters 🌗 and Personal Biodata there 📝
 
 **ahmadakhsan/ahmadakhsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
