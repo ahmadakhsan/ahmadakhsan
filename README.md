@@ -64,7 +64,7 @@
 
 
 
-| <a href="https://github.com/ahmadakhsan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadakhsan&show_icons=true&bg_color=151515&include_all_commits=true&theme=buefy" alt="Ahmad Akhsan's github stats" /></a> | <a href="https://github.com/ahmadakhsan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadakhsan&bg_color=151515&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/ahmadakhsan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadakhsan&show_icons=true&bg_color=151515&include_all_commits=true&hide_border=true" alt="Ahmad Akhsan's github stats" /></a> | <a href="https://github.com/ahmadakhsan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadakhsan&bg_color=151515&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ### Topics of Natural disasters 🌗 and Personal Biodata there 📝
