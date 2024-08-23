@@ -65,8 +65,6 @@
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   </p>
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmadakhsan&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
-
 
 <div>
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=ahmadakhsan&count_private=true&show_icons=true&include_all_commits=true&text_color=0d1117&icon_color=0d7c66&title_color=0d7c66" />
