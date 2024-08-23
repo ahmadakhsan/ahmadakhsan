@@ -60,7 +60,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmadakhsan&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
-![Ahmad Akhsan GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadakhsan&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+![Ahmad Akhsan GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadakhsan&hide_border=true&include_all_commits=tru&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
 
 
