@@ -18,7 +18,7 @@
 
 ---
 
-#### About me
+<h6>About me</h6> 
 
 - 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
 
