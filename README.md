@@ -72,7 +72,7 @@
 
 
 <div>
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=ahmadakhsan&count_private=true&icons=true&include_all_commits=true&text_color=ffffff&icon_color=0d7c66&hide_border=true" />
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=ahmadakhsan&count_private=true&icons=true&include_all_commits=true&text_color=9e9e9e&icon_color=0d7c66&hide_border=true" />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadakhsan&layout=compact" />
 </div>
 <br>
