@@ -33,19 +33,13 @@
 <picture>
   <img align="left" alt="GIF description" width="33%" src="giphy.gif">
 </picture>
-<ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
-</ul>
-
- <p> 
-  <img src="giphy.gif" align="right" width="33%"  
-             alt="">  welcome to my github, I am a developer, I have examples of several projects that I 
+<p>
+   welcome to my github, I am a developer, I have examples of several projects that I 
   made,  for self-development focus on problem  solving, while my project examples vary, 
   ranging from sales applications, cashier applications, financial applications, to see 
   examples of code programs you can seen below, I also receive some input using other
-  people's code and want to collaborate, learn knowledge together. </p>
+  people's code and want to collaborate, learn knowledge together. 
+</p>
 
 
  <br/>
