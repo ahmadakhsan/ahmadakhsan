@@ -28,6 +28,17 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 <br>
+
+
+<picture>
+  <img align="left" alt="GIF description" width="33%" src="giphy.gif">
+</picture>
+<ul align="left">
+  <li>Deepening my knowledge in Machine Learning and AI.</li>
+  <li>Exploring advanced React.js patterns and state management techniques.</li>
+  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+</ul>
+
  <p> 
   <img src="giphy.gif" align="right" width="33%"  
              alt="">  welcome to my github, I am a developer, I have examples of several projects that I 
