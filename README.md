@@ -34,8 +34,6 @@
     <img src="https://gpvc.arturio.dev/bagusfe" />
 </p>
 
-<br>
-
 ### About Me 
 
 - 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
@@ -79,6 +77,8 @@
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=ahmadakhsan&count_private=true&show_icons=true&include_all_commits=true&text_color=0d1117&icon_color=0d7c66&title_color=0d7c66" />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadakhsan&layout=compact&text_color=0d1117&title_color=0d7c66" />
 </div>
+
+<br>
 <br>
 
 ### Example Project 
