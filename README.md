@@ -67,7 +67,6 @@
     <img alt="Tailwind" src="https://img.shields.io/badge/-tailwind%20css-F9A03C?style=flat-square&logo=tailwind%20css&logoColor=white" />
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   </p>
-  
 
 
 <div>
