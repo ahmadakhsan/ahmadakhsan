@@ -1,5 +1,5 @@
 <picture>
-  <img align="right" alt="GIF description" width="35%" src="giphy.gif">
+  <img align="right" alt="GIF description" width="38%" src="giphy.gif">
 </picture>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
