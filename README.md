@@ -80,7 +80,6 @@
 ### Example Project 
 
 
-
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
