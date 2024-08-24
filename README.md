@@ -29,7 +29,8 @@
 
 
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ahmadakhsan)](https://github.com/ahmadakhsan) [![GitHub followers](https://img.shields.io/github/followers/ahmadakhsan.svg?style=social&label=Follow)](https://github.com/ahmadakhsan?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ahmadakhsan)](https://github.com/ahmadakhsan) 
+[![GitHub followers](https://img.shields.io/github/followers/ahmadakhsan.svg?style=social&label=Follow)](https://github.com/ahmadakhsan?tab=followers)
 
 <p>
     <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
