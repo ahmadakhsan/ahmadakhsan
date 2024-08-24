@@ -1,6 +1,7 @@
 <picture>
   <img align="right" alt="GIF description" width="38%" src="giphy.gif">
 </picture>
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
 [![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
 ![GitHub followers](https://img.shields.io/github/followers/ahmadakhsan?label=Follow&style=social)
