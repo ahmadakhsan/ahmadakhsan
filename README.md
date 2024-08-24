@@ -3,7 +3,7 @@
 </picture>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=aksan08)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmad-akhsan-807144138/)](https://www.linkedin.com/in/anmol098/)
+[![Linkedin: Ahmad Akhsan](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmad-akhsan-807144138/)](https://www.linkedin.com/in/anmol098/)
 ![GitHub followers](https://img.shields.io/github/followers/ahmadakhsan?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=akhsan.netlify.app/)](https://akhsan.netlify.app/)
 ![](https://visitor-badge.glitch.me/badge?page_id=ahmadakhsan.ahmadakhsan)
