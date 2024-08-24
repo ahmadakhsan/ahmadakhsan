@@ -10,7 +10,7 @@
 
 
 ![Waka Readme](https://github.com/ahmadakhsan/ahmadakhsan/workflows/Waka%20Readme/badge.svg)
-[![wakatime](https://wakatime.com/badge/user/ef1e5d1d-575d-4a72-8934-c5e17818cc1a.svg)](https://wakatime.com/@ef1e5d1d-575d-4a72-8934-c5e17818cc1a)
+[![wakatime](https://wakatime.com/badge/user/ef1e5d1d-575d-4a72-8934-c5e17818cc1a.svg)](https://wakatime.com/ef1e5d1d-575d-4a72-8934-c5e17818cc1a)
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ahmadakhsan)](https://github.com/ahmadakhsan) 
 
  ### Hello guys 👋, welcome back my github.......
