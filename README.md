@@ -76,9 +76,9 @@
 <br>
 
 
-<!---
+<!--
 ### Example Project 
-
+-->
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
@@ -94,4 +94,3 @@
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 
--->
